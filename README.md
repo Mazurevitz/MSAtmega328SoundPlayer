@@ -14,3 +14,8 @@
 ## Hardware parts
 #### Description:
 - I use an Arduino buzzer to generate sound. Supplied with 5V. I also use LCD display (HD44780) with 5 analog pushbuttons. They are all on LCD Keypad Shield V3.
+
+<p align="center">
+  <img src="project_music_generator_bb_2.png" width="350"/>
+  <img src="project_music_generatorv2_schemV2.jpg" width="350"/>
+</p>
